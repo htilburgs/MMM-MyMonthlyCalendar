@@ -7,7 +7,7 @@ hour however it will only update the calendar display once a day, at midnight.
 ## Installing the module
 Clone this repository in your `~/MagicMirror/modules/` folder `( $ cd ~MagicMirror/modules/ )`:
 ````javascript
-git clone https://github.com/KirAsh4/calendar_monthly
+git clone https://github.com/htilburgs/MMM-MyMonthlyCalendar
 ````
 
 ## Using the module
@@ -15,7 +15,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 			{
-				module: 'calendar_monthly',
+				module: 'MMM-MyMonthlyCalendar',
 				position: 'top_left',
 				config: {
 						// The config property is optional
