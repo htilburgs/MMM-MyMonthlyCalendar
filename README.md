@@ -1,8 +1,8 @@
 # Module: Calendar [Monthly]
 
-The `calendar_monthly` module is a simple month-view calendar created for the MagicMirror project
-by Michael Teeuw (https://github.com/MichMich/MagicMirror). The modules refreshes its timer every
-hour however it will only update the calendar display once a day, at midnight.
+The `MMM-MyMonthlyCalendar is a Fork from calendar_monthly` (https://github.com/KirAsh4/calendar_monthly).
+The original module was not maintained for the last 5 years and had some issues.
+This module is a simple month-view calendar created for the MagicMirror project by Michael Teeuw (https://github.com/MichMich/MagicMirror). The modules refreshes its timer every hour however it will only update the calendar display once a day, at midnight.
 
 ## Installing the module
 Clone this repository in your `~/MagicMirror/modules/` folder `( $ cd ~MagicMirror/modules/ )`:
