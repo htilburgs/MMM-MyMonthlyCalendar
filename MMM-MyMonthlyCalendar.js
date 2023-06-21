@@ -1,7 +1,9 @@
-/* Magic Mirror Module: calendar_monthly
- * v1.0 - June 2016
+/* Magic Mirror Module: MMM-MyMonthlyCalendar
+ * v1.0 - June 2023
  *
- * By Ashley M. Kirchner <kirash4@gmail.com>
+ * 
+ * Module is a Fork from calendar_monthly 
+ * By Ashley M. Kirchner
  * Beer Licensed (meaning, if you like this module, feel free to have a beer on me, or send me one.)
  */
 
