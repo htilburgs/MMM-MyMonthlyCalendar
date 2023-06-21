@@ -2,56 +2,56 @@
  * and some additional colors
  */
 
-#yearDigits {
+.module.MMM-MyMonthlyCalendar #yearDigits {
 	color: #fff;
 	font-weight: normal;
 } 
 
-#monthName {
+.module.MMM-MyMonthlyCalendar #monthName {
 	font-weight: normal;
 }
 
-#monthName:after {
+.module.MMM-MyMonthlyCalendar #monthName:after {
 	content: " •";
 	color: #80ff00;
 	font-weight: bold;
 }
 
-.monthPrev {
+.module.MMM-MyMonthlyCalendar .monthPrev {
 	color: #333333;
 }
 
-.monthNext {
+.module.MMM-MyMonthlyCalendar .monthNext {
 	color: #333333;
 }
 
-.square-box {
+.module.MMM-MyMonthlyCalendar .square-box {
 	position: relative;
 	width: 50%;
 	overflow: hidden;
 	margin: 0px auto;
 }
 
-.square-box:before {
+.module.MMM-MyMonthlyCalendar .square-box:before {
 	content: "";
 	display: block;
 	padding-top: 20%;
 }
 
-.square-content {
+.module.MMM-MyMonthlyCalendar .square-content {
 	top: 0;
 	left: 0;
 	bottom: 0;
 	right: 0;
 }
 
-.square-content .today {
+.module.MMM-MyMonthlyCalendar .square-content .today {
 	border: 1px solid #80ff00;
 	font-weight: normal;
 	color: #80ff00;
 }
 
-.square-content div {
+.module.MMM-MyMonthlyCalendar .square-content div {
 	display: table;
 	width: 100%;
 	height: 100%;
