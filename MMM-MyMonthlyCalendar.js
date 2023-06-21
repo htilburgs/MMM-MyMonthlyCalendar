@@ -7,7 +7,7 @@
  * Beer Licensed (meaning, if you like this module, feel free to have a beer on me, or send me one.)
  */
 
-Module.register("MMM-MyMonbthlyCalendar", {
+Module.register("MMM-MyMonthlyCalendar", {
 
 	// Module defaults
 	defaults: {
